@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  background-color: #f7f7f7;
+}
+
+h2 {
+  color: #336699;
+  font-size: 35px;
+}
+/* la forme de tous btn */
+.btn-forme{
+  background-color: #85b940;
+  border-radius: 20px;
+  border: none;
+}
+
+.search_bar{
+  border-radius: 25px !important;
+}
+/* form se connecter */
+.form-seConecter{
+  padding: 47px 80px;
+  max-width: 700px;
+  background-color: #ffffff;
+  border-radius: 33px;
+}
+
+.forme-input{
+  border-radius: 44px;
+  background-color: #ffffff;
+  border: 2px solid #336699;
+}
+.forme-textarea{
+  border-radius: 27px;
+  border: 2px solid #336699;
+
+}
+.add-annonce{
+    width: 236px;
+}
